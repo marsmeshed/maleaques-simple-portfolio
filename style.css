@@ -238,10 +238,10 @@ section {
 }
 
 /* LED Wall Image Styling */
-.pass-chall {
+.pers-chall {
   background-image: url(/photos/IMG_E1282.JPG);
   background-size: cover;
-  width: 47.5%;
+  width: 20.5%;
   height: 300px;
   margin-bottom: 2%;
   margin-right: 0.5%;
